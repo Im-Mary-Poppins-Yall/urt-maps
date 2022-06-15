@@ -834,4 +834,25 @@
   "fileSize": "built-in",
   "playSize": "medium",
   "relatedMaps": []
+},
+{
+  "_id": "Firing_Range",  
+  "creator": "Frozen Sand",  
+  "pk3": "built-in",  
+  "screenShots": [
+    "firingrage_spawn.jpg",
+    "firingrage_range1.jpg",
+    "firingrage_range2.jpg"
+  ],
+  "featureTags": [
+    "indoors",
+    "nonsymmetrical",
+    "glass",
+    "windows",
+    "buildings",
+    "stairs"
+  ],
+  "fileSize": "15 mb",
+  "playSize": "medium",
+  "relatedMaps": []
 }]
