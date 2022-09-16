@@ -855,4 +855,31 @@
   "fileSize": "15 mb",
   "playSize": "medium",
   "relatedMaps": []
+},
+{
+  "_id": "Mykonos",  
+  "creator": "MajkiFajki",  
+  "pk3": "ut4_mykonos_a11",  
+  "screenShots": [
+    "mykonos_blueflag.jpg",
+    "mykonos_hotel.jpg",
+    "mykonos_middle.jpg",
+    "mykonos_redflag.jpg",
+    "mykonos_windmill.jpg"
+  ],
+  "featureTags": [
+    "indoors",
+    "outdoors",
+    "nonsymmetrical",
+    "arch",
+    "balcony",
+    "benches",
+    "cobblestone",
+    "fountain",
+    "gates",
+    "windmill"
+  ],
+  "fileSize": "11 mb",
+  "playSize": "small",
+  "relatedMaps": []
 }]
