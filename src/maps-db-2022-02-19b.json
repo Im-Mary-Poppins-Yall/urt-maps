@@ -882,4 +882,33 @@
   "fileSize": "11 mb",
   "playSize": "small",
   "relatedMaps": []
+},
+{
+  "_id": "Oil_Depot",
+  "creator": "Frozen Sands",
+  "pk3": "built-in",
+  "screenShots": [
+    "oildepot_middle.jpg",
+    "oildepot_kitchen.jpg",
+    "oildepot_office.jpg",
+    "oildepot_redflag.jpg",
+    "oildepot_blueflag.jpg"
+  ],
+  "featureTags": [
+    "fence",
+    "ladders",
+    "outdoors",
+    "nonsymmetrical",
+    "propaganda",
+    "kitchen",
+    "silo",
+    "stairs",
+    "storage container",
+    "tank",
+    "bus",
+    "pipes"
+  ],
+  "fileSize": "built-in",
+  "playSize": "large",
+  "relatedMaps": []
 }]
