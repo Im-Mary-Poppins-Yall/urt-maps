@@ -948,4 +948,36 @@
   "fileSize": "13 mb",
   "playSize": "small",
   "relatedMaps": []
+},
+{
+  "_id": "Prague",
+  "creator": "Rabid Cow & BladeKiller",
+  "pk3": "ut4_prague_v2",
+  "screenShots": [
+    "prague_market.jpg",
+    "prague_middle.jpg",
+    "prague_redflag.jpg",
+    "prague_hotel.jpg",
+    "prague_blueflag.jpg"
+  ],
+  "featureTags": [
+    "arch",
+    "boxes",
+    "bricks",
+    "buildings",
+    "cobblestone",
+    "fountain",
+    "gates",
+    "grass",
+    "indoors",
+    "outdoors",
+    "lanterns",
+    "market",
+    "nonsymmetrical",
+    "stairs",
+    "urban"
+  ],
+  "fileSize": "83 mb",
+  "playSize": "small",
+  "relatedMaps": []
 }]
