@@ -911,4 +911,41 @@
   "fileSize": "built-in",
   "playSize": "large",
   "relatedMaps": []
+},
+{
+  "_id": "Paris",
+  "creator": "Clatoo",
+  "pk3": "su_paris_b3",
+  "screenShots": [
+    "paris_middle.jpg",
+    "paris_blueflag.jpg",
+    "paris_redflag.jpg",
+    "paris_courtyard(non ctf).jpg",
+    "paris_catacombs(non ctf).jpg"
+  ],
+  "featureTags": [
+    "arch",
+    "bridge",
+    "buildings",
+    "cobblestone",
+    "dock",
+    "grass",
+    "indoors",
+    "outdoors",
+    "lanterns",
+    "music",
+    "nonsymmetrical",
+    "plants",
+    "stairs",
+    "urban",
+    "water",
+    "boat",
+    "trash",
+    "french",
+    "marseillaise",
+    "paris"
+  ],
+  "fileSize": "13 mb",
+  "playSize": "small",
+  "relatedMaps": []
 }]
