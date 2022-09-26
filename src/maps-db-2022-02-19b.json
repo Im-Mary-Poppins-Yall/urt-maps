@@ -980,4 +980,33 @@
   "fileSize": "83 mb",
   "playSize": "small",
   "relatedMaps": []
+},
+{
+  "_id": "Raiders",
+  "creator": "PapyRuny (papyruny@yahoo.fr)",
+  "pk3": "ut4_raiders_rc1",
+  "screenShots": [
+    "raiders_waterfall.jpg",
+    "raiders_junglepath.jpg",
+    "raiders_idol.jpg",
+    "raiders_blueflag.jpg",
+    "raiders_redflag.jpg"
+  ],
+  "featureTags": [
+    "arch",
+    "grass",
+    "nonsymmetrical",
+    "outdoors",
+    "pillars",
+    "plants",
+    "rocks",
+    "stairs",
+    "temple",
+    "trees",
+    "water",
+    "waterfall"
+  ],
+  "fileSize": "22.4 mb",
+  "playSize": "medium",
+  "relatedMaps": []
 }]
