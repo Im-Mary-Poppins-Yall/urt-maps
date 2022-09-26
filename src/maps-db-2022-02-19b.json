@@ -1009,4 +1009,45 @@
   "fileSize": "22.4 mb",
   "playSize": "medium",
   "relatedMaps": []
+},
+{
+  "_id": "Ricochet",
+  "creator": "Frozen Sands",
+  "pk3": "built-in",
+  "screenShots": [
+    "ricochet_middle.jpg",
+    "ricochet_garage.jpg",
+    "ricochet_roof.jpg",
+    "ricochet_redflag.jpg",
+    "ricochet_blueflag.jpg"
+  ],
+  "featureTags": [
+    "balcony",
+    "benches",
+    "books",
+    "bricks",
+    "buildings",
+    "garage",
+    "glass",
+    "indoors",
+    "outdoors",
+    "lanterns",
+    "library",
+    "nonsymmetrical",
+    "pillars",
+    "ramps",
+    "stairs",
+    "storage container",
+    "storage crate",
+    "trees",
+    "trucks",
+    "urban",
+    "rooftop",
+    "fences",
+    "plants",
+    "vending machine"
+  ],
+  "fileSize": "built-in",
+  "playSize": "medium",
+  "relatedMaps": []
 }]
