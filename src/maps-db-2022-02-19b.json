@@ -1050,4 +1050,41 @@
   "fileSize": "built-in",
   "playSize": "medium",
   "relatedMaps": []
+},
+{
+  "_id": "Riyadh",
+  "creator": "Frozen Sands",
+  "pk3": "built-in",
+  "screenShots": [
+    "ryadh_center.jpg",
+    "riyadh_redbase.jpg",
+    "riyadh_blueflag.jpg",
+    "riyadh_bluebase.jpg",
+    "riyadh_redflag.jpg"
+  ],
+  "featureTags": [
+    "arch",
+    "balcony",
+    "barrels",
+    "boxes",
+    "buildings",
+    "gates",
+    "hills",
+    "indoors",
+    "ladders",
+    "outdoors",
+    "sand",
+    "symmetrical",
+    "terrace",
+    "tower",
+    "trees",
+    "arabic",
+    "carpets",
+    "curtains",
+    "dome",
+    "rooftop"
+  ],
+  "fileSize": "built-in",
+  "playSize": "medium",
+  "relatedMaps": []
 }]
